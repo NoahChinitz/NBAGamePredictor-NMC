@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "celticspredictor-nmc"
 version = "0.1.0"
-description = "Neural Network to predict the Boston Celtics win/loss record in the 2021-22 NBA season"
+description = "Neural Network to predict if the home team won in any given match"
 authors = ["NoahChinitzGWU <noahchinitz@gwmail.gwu.edu>"]
 license = "MIT"
 readme = "README.md"
